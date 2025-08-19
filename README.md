@@ -12,8 +12,8 @@
 - CSS
 - JavaScript
 
-## Live Demo
- https://starlit-dodol-5c1873.netlify.app/
-
+## Links
+- **GitHub Repository:** https://github.com/vikash4509/React-Counter-App.git
+- **Live Demo:** https://starlit-dodol-5c1873.netlify.app/
 ---
 ✅ Task 01 completed successfully as part of my SkillCraft Technology Web Development Internship.
