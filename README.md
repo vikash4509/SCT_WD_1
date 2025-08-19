@@ -13,7 +13,7 @@
 - JavaScript
 
 ## Links
-- **GitHub Repository:** https://github.com/vikash4509/React-Counter-App.git
+- **GitHub Repository:** https://github.com/vikash4509/SCT_WD_1.git
 - **Live Demo:** https://starlit-dodol-5c1873.netlify.app/
 ---
 ✅ Task 01 completed successfully as part of my SkillCraft Technology Web Development Internship.
