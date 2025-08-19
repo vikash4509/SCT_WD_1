@@ -14,6 +14,6 @@
 
 ## Links
 - **GitHub Repository:** https://github.com/vikash4509/SCT_WD_1.git
-- **Live Demo:** https://starlit-dodol-5c1873.netlify.app/
+- **Live Demo:** https://responsive-landing-page-project.netlify.app/
 ---
 ✅ Task 01 completed successfully as part of my SkillCraft Technology Web Development Internship.
